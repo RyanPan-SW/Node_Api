@@ -10,6 +10,7 @@
 
 
 ### 目录结构
+```
 .
 >├── README.md
 >├── app.js
@@ -29,7 +30,7 @@
     ├── index.js
     ├── md5.js
     └── user-jwt.js
-
+```
 
 
 
