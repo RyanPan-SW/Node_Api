@@ -12,10 +12,10 @@
 ### 目录结构
 ```
 .
->├── README.md
->├── app.js
->├── db
->>>│   └── dbConfig.js
+├── README.md
+├── app.js
+├── db
+│   └── dbConfig.js
 ├── package-lock.json
 ├── package.json
 ├── routes
